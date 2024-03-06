@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @alvarocurebase
+- 👋 Hello there, welcome (: 
 - 📫 How to reach me: alvaro.paz@curebase.com
