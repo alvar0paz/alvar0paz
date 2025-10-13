@@ -1,3 +1,4 @@
 - 👋 Hello there, welcome (: 
 - 📫 How to reach me: alvaroipazr@gmail.com
+- 👤 LinkedIn: https://www.linkedin.com/in/alvaropaz
 - ⌨ My old github account: https://github.com/alvaropazz
